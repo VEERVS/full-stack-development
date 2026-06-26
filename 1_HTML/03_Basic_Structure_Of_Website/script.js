@@ -1,0 +1,1 @@
+alert("welcome to basic strucutre of a html website")
