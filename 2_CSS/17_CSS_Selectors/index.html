@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS Selectors</title>
+    <style>
+        /* Element Selector */
+        div{
+            background-color: black;
+        }
+        
+        /* Class Selector */
+        .red{
+            color: yellow;
+        }
+        
+        /* Class Selector */
+        #green{
+            color: lime;
+        }
+
+        /* Child Selector */
+        /* div > p{
+            color: blue;
+            background-color: yellow;
+        } */
+
+        /* Descendant Selector */
+        div p{
+            color: red;
+            background-color: yellow;
+        }
+        
+        /* Universal Selector */
+        *{
+            text-align: center;
+        }
+        
+        /* Psuedo Selector */
+        a:visited{
+            color: lime;
+        }
+        a:hover{
+            color: pink;
+        }
+        a:active{
+            background-color: red;
+        }
+        /* p:first-child{
+            color: white;
+        } */
+
+    </style>
+</head>
+<body>
+
+    <div class="red">
+        I am a div
+        <p>I am a Para 1</p>
+        <p>I am a Para 2</p>
+    </div>
+    <div id="green">
+        i am also div
+        <main>
+            <p>
+                I am a Para but descednent of div
+            </p>
+        </main>
+    </div>
+
+    <a href="https://www.google.com">Go to Google</a>
+
+</body>
+</html>
