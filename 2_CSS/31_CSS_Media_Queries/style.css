@@ -1,0 +1,36 @@
+body{
+    background-color: red;
+}
+
+.box{
+    height: 144px;
+    width: 144px;
+    background-color: yellow;
+    margin: 5px;
+    padding: 5px;
+}
+
+.boxes{
+    display: flex;
+}
+
+/* @media not|only mediatype and
+    (expressions){
+        CSS-Code;
+    } */
+
+/* @media only screen and (max-width: 455px){
+    body{
+        background-color: blue;
+        }
+        } */
+        
+        @media only screen and (orientation: portrait){
+            body{
+                color: white;
+                background-color: blue;
+    }
+    .boxes{
+        flex-direction: column;
+    }
+}
