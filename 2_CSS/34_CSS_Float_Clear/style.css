@@ -1,0 +1,17 @@
+img{
+    float: right;
+}
+
+.cards{
+    border: 2px solid black;
+    display: flow-root;
+}
+
+.cards div:nth-child(2){
+    background-color: aqua;
+    clear: right;
+}
+
+.card{
+    border: 2px solid red;
+}
