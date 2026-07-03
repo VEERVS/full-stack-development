@@ -1,0 +1,49 @@
+/* .box:first-child{
+    background-color: red;
+}
+
+.box::first-line{
+    color: yellow;
+} */
+
+/* .boxes *{
+    border: 2px solid black;
+    color: blue;
+} */
+
+/* p,a,.box,[data-color="primary"]{
+    margin-top: 50px;
+    padding: 5px;
+} */
+
+/* .box:nth-child(odd){
+    background-color: blue;
+} */
+
+/* .box:nth-last-child(1){
+    background-color: green;
+} */
+
+.boxes::before{
+    content: "Veer is good";
+    color: blue;
+}
+
+.boxes::after{
+    content: "WEB DEV is cool";
+    color: red;
+}
+
+::selection{
+    color: lime;
+    background-color: black;
+}
+
+.box::first-letter{
+    color: rgb(255, 0, 255);
+    font-size: 35px;
+}
+
+input::placeholder{
+    color: green;
+}
