@@ -1,17 +1,33 @@
-# 🚀 Full Stack Developer Journey
+# 🚀 Full Stack Development Journey
 
 Welcome to my **Full Stack Development Journey** repository!
 
-This repository documents my learning journey as I work towards becoming a **Full Stack Developer**. Every folder in this repository represents a topic, project, or milestone that I complete while following my learning roadmap.
+This repository documents my progress as I learn modern web development from the ground up. Every folder represents a concept, exercise, or project completed throughout my journey.
 
 ---
 
 ## 🎯 Goals
 
-* Master the MERN Stack
-* Build real-world web applications
-* Learn industry-standard development practices
-* Maintain a consistent GitHub learning journey
+- Become a Full Stack Developer
+- Master the MERN Stack
+- Build real-world web applications
+- Learn industry-standard development practices
+- Maintain a consistent GitHub learning journey
+
+---
+
+## 📊 Current Progress
+
+| Module | Status |
+|---------|--------|
+| HTML | ✅ Completed |
+| CSS | 🔄 In Progress (40 Lessons Completed) |
+| JavaScript | ⏳ Upcoming |
+| React | ⏳ Upcoming |
+| Node.js | ⏳ Upcoming |
+| Express.js | ⏳ Upcoming |
+| MongoDB | ⏳ Upcoming |
+| Projects | ⏳ Upcoming |
 
 ---
 
@@ -19,23 +35,51 @@ This repository documents my learning journey as I work towards becoming a **Ful
 
 ### ✅ HTML (Completed)
 
-* First HTML Code
-* First HTML Webpage
-* Basic Structure
-* Headings, Paragraphs & Links
-* Images, Lists & Tables
-* SEO & Core Web Vitals
-* Forms & Input Tags
-* Inline & Block Elements
-* IDs & Classes
-* Video & Audio Elements
-* Semantic HTML
-* HTML Media Player Project
-* HTML Entities & Code Tags
+- First HTML Code
+- First HTML Webpage
+- Basic Structure
+- Headings, Paragraphs & Links
+- Images, Lists & Tables
+- SEO & Core Web Vitals
+- Forms & Input Tags
+- Inline & Block Elements
+- IDs & Classes
+- Video & Audio Elements
+- Semantic HTML
+- HTML Media Player Project
+- HTML Entities & Code Tags
 
-### 🔄 Current Module
+### 🔄 CSS (In Progress)
 
-🎨 **CSS**
+- Introduction to CSS
+- Inline, Internal & External CSS
+- CSS Selectors
+- Margin, Padding & Borders
+- Fonts, Text & Colors
+- CSS Specificity & Cascade
+- Sizing Units
+- Display Property
+- Shadows & Outlines
+- Styling Lists
+- Overflow Property
+- Position Property
+- CSS Variables
+- Media Queries
+- Float & Clear
+- Advanced CSS Selectors
+- Flexbox
+- CSS Grid
+- Layout Design Exercises
+- Multiple CSS Practice Projects
+
+### ⏳ Coming Next
+
+- JavaScript
+- React
+- Node.js
+- Express.js
+- MongoDB
+- Full Stack Projects
 
 ---
 
@@ -58,31 +102,27 @@ full-stack-development/
 
 ## 🛠️ Tech Stack
 
-| Technology   | Status           |
-| ------------ | ---------------- |
-| HTML         | ✅ Completed      |
-| CSS          | 🔄 Learning      |
-| JavaScript   | ⏳ Upcoming       |
-| React        | ⏳ Upcoming       |
-| Node.js      | ⏳ Upcoming       |
-| Express.js   | ⏳ Upcoming       |
-| MongoDB      | ⏳ Upcoming       |
+| Technology | Status |
+|------------|--------|
+| HTML | ✅ Completed |
+| CSS | 🔄 Learning |
+| JavaScript | ⏳ Upcoming |
+| React | ⏳ Upcoming |
+| Node.js | ⏳ Upcoming |
+| Express.js | ⏳ Upcoming |
+| MongoDB | ⏳ Upcoming |
 | Git & GitHub | ✅ Daily Workflow |
 
 ---
 
-## 📈 Progress Tracker
+## 📈 Repository Highlights
 
-| Module     | Status         |
-| ---------- | -------------- |
-| HTML       | ✅ Completed    |
-| CSS        | 🔄 In Progress |
-| JavaScript | ⏳ Upcoming     |
-| React      | ⏳ Upcoming     |
-| Node.js    | ⏳ Upcoming     |
-| Express.js | ⏳ Upcoming     |
-| MongoDB    | ⏳ Upcoming     |
-| Projects   | ⏳ Upcoming     |
+- 📖 Structured learning roadmap
+- 💻 Hands-on coding exercises
+- 🎨 Mini web development projects
+- 📂 Well-organized folder structure
+- 📝 Meaningful Git commit history
+- 🚀 Consistent GitHub contributions
 
 ---
 
@@ -90,9 +130,9 @@ full-stack-development/
 
 This repository is more than just a collection of code.
 
-It serves as a record of my growth as a developer, documenting every concept, exercise, project, and milestone throughout my Full Stack Development journey.
+It serves as a timeline of my growth as a developer. Every concept, exercise, and project is committed separately to Git, making it easy to track my learning progress over time.
 
-Each meaningful learning session is committed to Git, making this repository a timeline of my progress.
+As I continue this journey, this repository will gradually evolve from HTML and CSS fundamentals to JavaScript, React, backend development, databases, and complete Full Stack applications.
 
 ---
 
