@@ -1,0 +1,27 @@
+.item{
+    height: 92px;
+    width: 92px;
+    background-color: blueviolet;
+    border: 2px solid black;
+    margin: 2px;
+    /* flex-grow: 1; */
+}
+
+.container{
+    border: 2px solid red;
+    height: 80vh;
+    display: flex;
+    /* justify-content: center; */
+    /* align-items: center; */
+    align-content: flex-start;
+    /* flex-direction: column; */
+    /* flex-wrap: wrap; */
+    flex-flow: row wrap;
+    gap: 40px 10px;
+    /* row-gap: 40px;
+    column-gap: 10px; */
+}
+
+.item1{
+    flex-grow: 2;
+}
