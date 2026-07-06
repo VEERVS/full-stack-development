@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+}
+
+nav{
+    display: flex;
+    height: 50px;
+    width: 70%;
+    gap: 10px;
+    align-items: center;
+    justify-content: flex-end;
+    margin: auto;
+}
+
+.item{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+
+.icon{
+    margin-right: auto;
+}
+
+main{
+    width: 50%;
+    height: 500px;
+    background-color: grey;
+    margin: auto;
+    margin-top: 100px;
+}
