@@ -1,0 +1,20 @@
+.container{
+    /* background-color: azure; */
+    height: 488px;
+    width: 466px;
+    border: 2px solid black;
+    background-position: top right;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-image: url("https://t4.ftcdn.net/jpg/11/35/04/83/360_F_1135048364_9t9LoY1VYrRCAbuihIR6tRgYk9Ju8EkV.jpg");
+}
+
+img{
+    height: 488px;
+    width: 466px;
+    object-fit: contain;
+    /* object-fit: fill; */
+    /* object-fit: cover; */
+    /* object-position: top right; */
+    /* object-position: 40px 60px; */
+}
