@@ -1,0 +1,9 @@
+img{
+    /* filter: blur(10px); */
+    /* filter: brightness(300%); */
+    filter: contrast(5);
+    /* filter: grayscale(80%); */
+    /* filter: sepia(80%); */
+    /* filter: invert(1); */
+    /* filter: opacity(0.6); */
+}
