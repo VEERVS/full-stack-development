@@ -1,0 +1,11 @@
+bg image - "https://assets.nflxext.com/ffe/siteui/vlv3/eaa165a3-80a7-44cb-8df6-be1a7e225369/web/IN-en-20260706-TRIFECTA-perspective_2f2fae68-6962-4d52-8cc2-1fe6ef5c6a56_large.jpg"
+
+1 - <span style="background-image:url(https://occ-0-6245-3647.1.nflxso.net/dnm/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABTxewL8rkRpXSTl7D-8-P734feP17Mg9p_uj7aJrTElzy9S5ilTIi6Ah1V3oglrpjN38lIWCuOz2oM-M0mrqdu2dYREaKyCYCnOO6dLZqVEZvB0fWqkuWzgCbRg6xB9i-88k.webp?r=daf)" class="default-ltr-iqcdef-cache-cf8xw5 e13lj3hn3"></span>
+
+2 - <span style="background-image:url(https://occ-0-6245-3647.1.nflxso.net/dnm/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABRHEcpZrJWcGzHq1AkgW7B8aDNiXEqlU9JBHEwHiXFTEQ8fXNl14SJJMQJYMweSLASaAFxBjCZUrsnZ2DCoViO0dcfgJvky0pYY.webp?r=d8e)" class="default-ltr-iqcdef-cache-cf8xw5 e13lj3hn3"></span>
+
+3 - <span style="background-image:url(https://occ-0-6245-3647.1.nflxso.net/dnm/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABV634RJ705XipxQXbUOmWTlPM6NMLGOMgv8O6-1mpxjUiHuGTO8aU_smM_58vn7E3eNAHVvWJq0PdI-Nfb186hH-lCfPKhOAdpg.webp?r=92a)" class="default-ltr-iqcdef-cache-cf8xw5 e13lj3hn3"></span>
+
+4 - <span style="background-image:url(https://occ-0-6245-3647.1.nflxso.net/dnm/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABWQnjEgoKoL20AK_MX_UXqWOqwvyE2a7W5yThmnL5CWSUMm6-YTio7Kh-mYcxjprRrLQcGzfm5KgRzXmJbz8kCmYXDlkq4d_YrH8kCGGS3b6RA3T7F65C1146Yuk4Vn7ziWj.webp?r=6b0)" class="default-ltr-iqcdef-cache-cf8xw5 e13lj3hn3"></span>
+
+5 - <span style="background-image:url(https://occ-0-6245-3647.1.nflxso.net/dnm/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABdCNdKR9dgupDlDI12eOrjd3d1uHJXGw537qUxGjCrEHiyDqJ5OIPTEP107q4e-qLJERuWreYp5bF7t5BxNEI7SfZhIY3p_Sp4w.webp?r=434)" class="default-ltr-iqcdef-cache-cf8xw5 e13lj3hn3"></span>
