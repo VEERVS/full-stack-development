@@ -21,13 +21,13 @@ This repository documents my progress as I learn modern web development from the
 | Module | Status |
 |---------|--------|
 | HTML | ✅ Completed |
-| CSS | 🔄 In Progress (40 Lessons Completed) |
-| JavaScript | ⏳ Upcoming |
+| CSS | ✅ Completed |
+| JavaScript | 🔄 In Progress |
 | React | ⏳ Upcoming |
 | Node.js | ⏳ Upcoming |
 | Express.js | ⏳ Upcoming |
 | MongoDB | ⏳ Upcoming |
-| Projects | ⏳ Upcoming |
+| Projects | 🔄 In Progress |
 
 ---
 
@@ -49,7 +49,9 @@ This repository documents my progress as I learn modern web development from the
 - HTML Media Player Project
 - HTML Entities & Code Tags
 
-### 🔄 CSS (In Progress)
+---
+
+### ✅ CSS (Completed)
 
 - Introduction to CSS
 - Inline, Internal & External CSS
@@ -69,17 +71,36 @@ This repository documents my progress as I learn modern web development from the
 - Advanced CSS Selectors
 - Flexbox
 - CSS Grid
+- CSS Transforms
+- CSS Transitions
+- CSS Animations
+- CSS Filters
+- Object Fit & Object Position
+- Figma Basics
 - Layout Design Exercises
 - Multiple CSS Practice Projects
+- Netflix Landing Page Clone
+
+---
+
+### 🔄 JavaScript (In Progress)
+
+- JavaScript Fundamentals
+- Variables & Data Types *(Current)*
+
+---
 
 ### ⏳ Coming Next
 
-- JavaScript
+- DOM Manipulation
+- ES6+
+- Asynchronous JavaScript
 - React
 - Node.js
 - Express.js
 - MongoDB
-- Full Stack Projects
+- REST APIs
+- Full Stack Applications
 
 ---
 
@@ -105,8 +126,8 @@ full-stack-development/
 | Technology | Status |
 |------------|--------|
 | HTML | ✅ Completed |
-| CSS | 🔄 Learning |
-| JavaScript | ⏳ Upcoming |
+| CSS | ✅ Completed |
+| JavaScript | 🔄 Learning |
 | React | ⏳ Upcoming |
 | Node.js | ⏳ Upcoming |
 | Express.js | ⏳ Upcoming |
@@ -115,11 +136,20 @@ full-stack-development/
 
 ---
 
+## 🚀 Projects Built
+
+- 🎨 Multiple CSS Practice Projects
+- 🟥 Netflix Landing Page Clone *(HTML & CSS)*
+- 📱 Responsive Layout Exercises
+- 💻 UI Components & Landing Pages
+
+---
+
 ## 📈 Repository Highlights
 
 - 📖 Structured learning roadmap
 - 💻 Hands-on coding exercises
-- 🎨 Mini web development projects
+- 🎨 Real-world frontend projects
 - 📂 Well-organized folder structure
 - 📝 Meaningful Git commit history
 - 🚀 Consistent GitHub contributions
@@ -132,7 +162,9 @@ This repository is more than just a collection of code.
 
 It serves as a timeline of my growth as a developer. Every concept, exercise, and project is committed separately to Git, making it easy to track my learning progress over time.
 
-As I continue this journey, this repository will gradually evolve from HTML and CSS fundamentals to JavaScript, React, backend development, databases, and complete Full Stack applications.
+Starting with HTML fundamentals and progressing through modern CSS, this journey now continues into JavaScript, React, backend development, databases, and eventually complete Full Stack applications.
+
+Each commit represents a meaningful step in my learning journey, reflecting not just completed lessons but the gradual development of practical web development skills.
 
 ---
 
