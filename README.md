@@ -23,8 +23,8 @@ This repository documents my progress as I learn modern web development from the
 | HTML | ✅ Completed |
 | CSS | ✅ Completed |
 | JavaScript | 🔄 In Progress |
-| React | ⏳ Upcoming |
 | Node.js | ⏳ Upcoming |
+| React | ⏳ Upcoming |
 | Express.js | ⏳ Upcoming |
 | MongoDB | ⏳ Upcoming |
 | Projects | 🔄 In Progress |
@@ -85,8 +85,21 @@ This repository documents my progress as I learn modern web development from the
 
 ### 🔄 JavaScript (In Progress)
 
-- JavaScript Fundamentals
-- Variables & Data Types *(Current)*
+#### Core Concepts
+
+- Introduction to JavaScript
+- Variables, Data Types & Objects
+- Conditional Statements
+- Loops
+- Functions
+- Strings
+- Arrays
+
+#### Practice Exercises
+
+- Faulty Calculator
+- Business Name Generator
+- Factorial Calculator
 
 ---
 
@@ -112,8 +125,8 @@ full-stack-development/
 ├── 1_HTML/
 ├── 2_CSS/
 ├── 3_JavaScript/
-├── 4_React/
-├── 5_NodeJS/
+├── 4_NodeJS/
+├── 5_React/
 ├── 6_ExpressJS/
 ├── 7_MongoDB/
 └── 8_Projects/
@@ -128,8 +141,8 @@ full-stack-development/
 | HTML | ✅ Completed |
 | CSS | ✅ Completed |
 | JavaScript | 🔄 Learning |
-| React | ⏳ Upcoming |
 | Node.js | ⏳ Upcoming |
+| React | ⏳ Upcoming |
 | Express.js | ⏳ Upcoming |
 | MongoDB | ⏳ Upcoming |
 | Git & GitHub | ✅ Daily Workflow |
