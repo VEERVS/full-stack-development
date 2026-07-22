@@ -2,7 +2,7 @@
 
 Welcome to my **Full Stack Development Journey** repository!
 
-This repository documents my progress as I learn modern web development from the ground up. Every folder represents a concept, exercise, or project completed throughout my journey.
+This repository documents my journey of learning modern web development from the ground up. Every folder represents a concept, exercise, or project completed throughout my learning process, making this repository a timeline of my growth as a developer.
 
 ---
 
@@ -10,9 +10,10 @@ This repository documents my progress as I learn modern web development from the
 
 - Become a Full Stack Developer
 - Master the MERN Stack
-- Build real-world web applications
-- Learn industry-standard development practices
+- Build scalable real-world web applications
+- Follow industry-standard development practices
 - Maintain a consistent GitHub learning journey
+- Continuously improve through hands-on projects
 
 ---
 
@@ -22,7 +23,7 @@ This repository documents my progress as I learn modern web development from the
 |---------|--------|
 | HTML | ✅ Completed |
 | CSS | ✅ Completed |
-| JavaScript | 🔄 In Progress |
+| JavaScript | 🔄 DOM & Core Concepts Completed |
 | Node.js | ⏳ Upcoming |
 | React | ⏳ Upcoming |
 | Express.js | ⏳ Upcoming |
@@ -94,20 +95,34 @@ This repository documents my progress as I learn modern web development from the
 - Functions
 - Strings
 - Arrays
+- Array Methods (Map, Filter & Reduce)
+
+#### DOM Manipulation
+
+- Document Object Model (DOM)
+- DOM Navigation
+- Selecting Elements
+- Inserting & Removing Elements
+- Dynamic DOM Manipulation
 
 #### Practice Exercises
 
 - Faulty Calculator
 - Business Name Generator
 - Factorial Calculator
+- DOM Color Boxes
 
 ---
 
 ### ⏳ Coming Next
 
-- DOM Manipulation
-- ES6+
+- Browser Events
+- Event Listeners
+- Event Bubbling
+- ES6+ Features
 - Asynchronous JavaScript
+- Fetch API
+- Promises
 - React
 - Node.js
 - Express.js
@@ -153,6 +168,9 @@ full-stack-development/
 
 - 🎨 Multiple CSS Practice Projects
 - 🟥 Netflix Landing Page Clone *(HTML & CSS)*
+- 🟦 JavaScript Business Name Generator
+- 🟨 JavaScript Factorial Calculator
+- 🎨 DOM Color Boxes Project
 - 📱 Responsive Layout Exercises
 - 💻 UI Components & Landing Pages
 
@@ -163,6 +181,7 @@ full-stack-development/
 - 📖 Structured learning roadmap
 - 💻 Hands-on coding exercises
 - 🎨 Real-world frontend projects
+- ⚡ Progressive JavaScript & DOM practice
 - 📂 Well-organized folder structure
 - 📝 Meaningful Git commit history
 - 🚀 Consistent GitHub contributions
@@ -175,10 +194,10 @@ This repository is more than just a collection of code.
 
 It serves as a timeline of my growth as a developer. Every concept, exercise, and project is committed separately to Git, making it easy to track my learning progress over time.
 
-Starting with HTML fundamentals and progressing through modern CSS, this journey now continues into JavaScript, React, backend development, databases, and eventually complete Full Stack applications.
+Starting with HTML fundamentals and progressing through modern CSS, this journey now continues into JavaScript, DOM manipulation, browser APIs, React, backend development, databases, and eventually complete Full Stack applications.
 
-Each commit represents a meaningful step in my learning journey, reflecting not just completed lessons but the gradual development of practical web development skills.
+Each commit represents a meaningful milestone in my learning journey, documenting concepts, exercises, and projects while showcasing consistent growth, practical problem-solving, and hands-on development experience.
 
 ---
 
-⭐ Thank you for visiting my repository! Feel free to explore my journey.
+⭐ **Thank you for visiting my repository! Feel free to explore my journey and follow along as I continue building toward becoming a Full Stack Developer.**
